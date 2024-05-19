@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib
+flask
+flask_cors
+scikit-learn
+joblib

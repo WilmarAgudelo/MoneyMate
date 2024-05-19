@@ -31,4 +31,4 @@ class Logica:
 
         print ({classification_report(y_test, yhat)})
     
-        return f"Realizando análisis... ${classification_report(y_test, yhat)}" 
+        return yhat 
